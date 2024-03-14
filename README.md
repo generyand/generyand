@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, My name is Gene Ryan</h1>
-<h3 align="center">A College Student Aspiring to be a Professional Developer</h3>
+<h1 align="left">Hello 👋, My name is Gene Ryan</h1>
+<h3 align="left">A College Student Aspiring to be a Professional Developer</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif"  />
 </div>
 
