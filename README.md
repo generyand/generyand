@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
-- ⚡ Fun fact **I don't know what the heck I'm doing with my life.**
+- ⚡ Fun fact: **I don't know what the heck I'm doing with my life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
