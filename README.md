@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">A College Student Aspiring to become a Professional Developer</h2>
 
 ###
