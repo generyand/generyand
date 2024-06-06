@@ -33,6 +33,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 <!--   <img width="12" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  /> -->
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 </div>
