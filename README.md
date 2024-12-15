@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A College Student Aspiring to become a Professional Developer</h2>
+<h2 align="center">sudo make me a developer 💻✨</h2>
 
 ###
 
@@ -38,6 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
 </div>
 
 ###
@@ -63,6 +69,10 @@
 
 ###
 
-<p align="left">As a Web Artisan, I specialize in designing and developing elegant web solutions that marry form with function. I'm deeply passionate about creating intuitive user interfaces and scalable backend architectures that empower users and businesses alike.<br><br>My mission is to continuously hone my craft and contribute to the ever-evolving landscape of web technologies. Whether it's building responsive websites, architecting robust APIs, or experimenting with emerging frameworks, I'm always eager to push boundaries and elevate the web experience.</p>
+<p align="left">As a Web Artisan by day and Terminal Ninja by night 🥷, I craft elegant digital experiences while occasionally trying to break them (ethically, of course! 🎩). When I'm not making websites look pretty and function smoothly, you'll find me diving deep into Linux rabbit holes and playing "Find the Vulnerability" – because what's more fun than legally hacking stuff? 
+
+I specialize in designing and developing web solutions that marry form with function, while keeping one eye on security (paranoia is just professional awareness, right? 🔐). My keyboard dances between creating intuitive user interfaces and penetration testing tools, because why not be the person who both builds the fortress and tests its walls?
+
+My mission? To continue wielding my powers for good in the ever-evolving digital realm. Whether it's crafting responsive websites, architecting robust APIs, hardening security measures, or tinkering with my Linux setup for the 42nd time this week, I'm always eager to push boundaries and elevate the web experience. Because in a world of 1's and 0's, sometimes you need to be both the creator and the ethical challenger! 🚀</p>
 
 ###
