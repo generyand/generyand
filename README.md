@@ -1,90 +1,100 @@
-<h1 align="center">Hello! 🙋‍♂️ I am Gene Ryan</h1>
-
-###
-
-<h2 align="center">sudo make me a developer 💻✨</h2>
-
-###
-
-<br clear="both">
-
+<!-- Typing SVG -->
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F3BEF&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Gene+Ryan+%F0%9F%91%8B;Full+Stack+Developer;Security+Enthusiast;Linux+Aficionado" alt="Typing SVG" /></a>
 </div>
 
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
+  <img src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif" height="200" alt="coding animation"/>
 </div>
 
-###
+<!-- About Me Section -->
+<h2 align="left">🚀 About Me</h2>
 
-<br clear="both">
+```typescript
+const geneRyan = {
+    role: "Full Stack Developer",
+    code: ["TypeScript", "JavaScript", "Python", "Java"],
+    askMeAbout: ["Web Dev", "Security", "Linux", "DevOps"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "CSS3"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Flask"],
+            databases: ["MongoDB", "PostgreSQL", "MySQL"]
+        },
+        devOps: ["Docker", "Kubernetes", "AWS"],
+        security: ["Penetration Testing", "Ethical Hacking"]
+    },
+    currentFocus: "Building secure and scalable web applications"
+};
+```
 
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=generyand&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">As a Web Artisan by day and Terminal Ninja by night 🥷, I craft elegant digital experiences while occasionally trying to break them (ethically, of course! 🎩). When I'm not making websites look pretty and function smoothly, you'll find me diving deep into Linux rabbit holes and playing "Find the Vulnerability" – because what's more fun than legally hacking stuff? 
+<p align="left">
+As a Web Artisan by day and Terminal Ninja by night 🥷, I craft elegant digital experiences while occasionally trying to break them (ethically, of course! 🎩). When I'm not making websites look pretty and function smoothly, you'll find me diving deep into Linux rabbit holes and playing "Find the Vulnerability" – because what's more fun than legally hacking stuff? 
 
 I specialize in designing and developing web solutions that marry form with function, while keeping one eye on security (paranoia is just professional awareness, right? 🔐). My keyboard dances between creating intuitive user interfaces and penetration testing tools, because why not be the person who both builds the fortress and tests its walls?
 
-My mission? To continue wielding my powers for good in the ever-evolving digital realm. Whether it's crafting responsive websites, architecting robust APIs, hardening security measures, or tinkering with my Linux setup for the 42nd time this week, I'm always eager to push boundaries and elevate the web experience. Because in a world of 1's and 0's, sometimes you need to be both the creator and the ethical challenger! 🚀</p>
+My mission? To continue wielding my powers for good in the ever-evolving digital realm. Whether it's crafting responsive websites, architecting robust APIs, hardening security measures, or tinkering with my Linux setup for the 42nd time this week, I'm always eager to push boundaries and elevate the web experience. Because in a world of 1's and 0's, sometimes you need to be both the creator and the ethical challenger! 🚀
+</p>
 
-###
+<!-- Skills Section -->
+<h2 align="left">🛠️ Technologies & Tools</h2>
+
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+</div>
+
+<!-- GitHub Stats -->
+<h2 align="left">📊 GitHub Stats</h2>
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=generyand&show_icons=true&theme=tokyonight" alt="Gene Ryan's GitHub stats" />
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=generyand&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=generyand&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<!-- Connect Section -->
+<h2 align="left">🤝 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/generyand" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/generyand" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=generyand&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
