@@ -88,6 +88,9 @@ I believe in the power of AI to transform how we interact with technology, and I
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Other Technologies**
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
@@ -106,12 +109,6 @@ I believe in the power of AI to transform how we interact with technology, and I
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=generyand&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/generyand/generyand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Currently Learning Section -->
