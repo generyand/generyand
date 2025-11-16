@@ -32,7 +32,7 @@ const geneRyan = {
             vectorDBs: ["Qdrant", "Redis"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "AWS"]
+        devOps: ["Docker", "Nginx", "AWS"]
     },
     currentFocus: "Building AI-powered applications with RAG and learning cybersecurity",
     learning: ["Web Security", "CTF Challenges", "Advanced RAG Techniques"]
@@ -86,6 +86,7 @@ I believe in the power of AI to transform how we interact with technology, and I
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
